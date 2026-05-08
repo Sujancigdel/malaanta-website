@@ -24,7 +24,7 @@ We focus on **source segregation**, efficient collection, and turning waste into
 - Vision for 2030 (Zero landfill, green jobs, digital tracking)
 - Contact and service information
 
-## Tech Stack
+## Project Structure
 malaanta-website/
 ├── src/
 │   ├── app/              # Next.js App Router
@@ -38,6 +38,7 @@ malaanta-website/
 ├── tsconfig.json
 └── package.json
 
+## Tech Stack
 - **Framework:** Next.js 14 (App Router)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
